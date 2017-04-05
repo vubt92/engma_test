@@ -1,0 +1,21 @@
+/* Add here all your css styles (customizations) */
+
+.text_right {text-align:right !important;}
+.text_justify {text-align:justify !important;}
+
+.header .topbar ul.loginbar li.hoverSelector {cursor:pointer;}
+.footer-v1 .footer {padding: 0 10px;}
+.footer-v1 .footer .map-img {
+	background: url(../../assets/img/map-img.png) 500px 60px no-repeat;
+}
+.news-v3-in-sm .collapse{
+	text-align: justify;
+	padding-left: 2%;
+}
+textarea.non_resizable {resize:none;}
+.call-action-v1 .call-action-v1-in {display:block;}
+.client_short_brief {margin:10px;}
+
+.resizetitle{
+	max-width: 289px;
+}
